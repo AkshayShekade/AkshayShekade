@@ -4,7 +4,7 @@
 
 # About Me
 
-💼 I'm currently doing Intership as a Data Scientist at LearnVista Pvt. Ltd.
+💼 I'm currently doing Internship as a Data Scientist at LearnVista Pvt. Ltd.
 
 🌱 I'm constantly learning and exploring new techniques and technologies in the field of data science.
 
