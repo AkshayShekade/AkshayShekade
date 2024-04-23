@@ -8,7 +8,7 @@
 
 🌱 I'm constantly learning and exploring new techniques and technologies in the field of data science.
 
-🔭 I’m currently working on Fashion Clothing Product Analysis.
+🔭 I’m currently working on World Food Production Analysis.
 
 💻 I'm proficient in various programming languages including Python and SQL.
 
