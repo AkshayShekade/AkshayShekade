@@ -8,7 +8,7 @@
 
 🌱 I'm constantly learning and exploring new techniques and technologies in the field of data science.
 
-🔭 I’m currently working on High Energy Physics Particle Classification project.
+🔭 I’m currently working on Data Science projects.
 
 💻 I'm proficient in various programming languages including Python and SQL.
 
