@@ -1,27 +1,58 @@
-# Akshay Shekade
+<div align="center" >
+  <img width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzdhYmgzb3JwNmJraTR1MWZoYWN4NHlmc2phMnhibW5wc3FlaGpkMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="coding">
+</div>
 
-👋 Hi there! I'm Akshay Shekade, a passionate data scientist with a keen interest in leveraging data-driven insights to solve complex problems. Welcome to my GitHub!
+<h1 align="center">Hi 👋, I'm Akshay Shekade</h1>
 
-# About Me
+<h3 align="center">A passionate Data Scientist from India. </h3>
 
-💼 I'm currently doing Internship as a Data Scientist at LearnVista Pvt. Ltd.
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 
-🌱 I'm constantly learning and exploring new techniques and technologies in the field of data science.
+### 🙋‍♀️ About Me
+- 👩‍🎓 Completed my B.Tech journey at **Pune University**.
 
-🔭 I’m currently working on Data Science projects.
+- 🔭 I’m looking to contribute to **Open Source**
 
-💻 I'm proficient in various programming languages including Python and SQL.
+- 🌱 I’m currently exploring **Machine learning and AI**
 
-📊 I have experience working with a wide range of data analysis and machine learning tools and libraries such as Pandas, Scikit-learn, TensorFlow, and PyTorch.
+- 👩‍💻 Know me more <a href="https://akshayshekade.github.io/" style="text-decoration: none;">Portfolio</a>
 
-📈 I'm passionate about visualizing data and communicating insights effectively through storytelling.'
+- 📝 Feel free to reach out to me here: <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=akshayshekade757@gmail.com" style="text-decoration: none;">Email</a>
 
-# Connect with Me
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 
-📫 You can reach me via email at akshayshekade757@gmail.com.
+### 💻 Tech Stack:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,mysql,aws,mongodb,ai" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,azure,sklearn,tensorflow" />
+  </a>
+</p>
 
-🌐 Connect with me on LinkedIn www.linkedin.com/in/akshay-shekade-a225a8135.
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
+  
+### 📊 GitHub Stats:
+![AkshayShekade's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AkshayShekade&theme=radical&hide_border=false)<br/>
+![AkshayShekade's Stats](https://github-readme-stats.vercel.app/api?username=AkshayShekade&theme=radical&show_icons=true&hide_border=false&count_private=true)<br/>
+![AKshayShekade's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayShekade&theme=radical&show_icons=true&hide_border=false&layout=compact)<br/>
+[![](https://visitcount.itsvg.in/api?id=sunidhi014&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
-# Let's Collaborate
-
-I'm always open to collaborating on interesting projects or discussing ideas. If you have any questions, suggestions, or just want to say hi, feel free to reach out!
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
+  
+### 📬 Reach me out:
+<p align="left">
+<a href = "https://www.linkedin.com/in/akshay-shekade-a225a8135/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/_akshu_1312/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+</p>
