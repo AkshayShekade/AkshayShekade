@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently exploring **Machine learning and AI**
 
-- 👩‍💻 Know me more <a href="https://akshayshekade.github.io/" style="text-decoration: none;">Portfolio</a>
+- 👩‍💻 Know me more <a href="https://akshayshekade.netlify.app/" style="text-decoration: none;">Portfolio</a>
 
 - 📝 Feel free to reach out to me here: <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=akshayshekade757@gmail.com" style="text-decoration: none;">Email</a>
 
