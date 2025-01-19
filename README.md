@@ -28,12 +28,12 @@
 ### 💻 Tech Stack:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,mysql,aws,mongodb,ai" />
+    <img src="https://skillicons.dev/icons?i=python,mysql,aws,mongodb,ai,anaconda,flask,gcp,selenium" />
   </a>
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,azure,sklearn,tensorflow" />
+    <img src="https://skillicons.dev/icons?i=git,github,azure,sklearn,tensorflow,django,vscode,netlify,pytorch" />
   </a>
 </p>
 
