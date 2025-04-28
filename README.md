@@ -78,7 +78,7 @@
   <a href="https://www.linkedin.com/in/akshay-shekade-a225a8135/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/_akshu_1312/">
+  <a href="https://www.instagram.com/_akshuu_1312/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="mailto:akshayshekade757@gmail.com">
