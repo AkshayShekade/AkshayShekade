@@ -3,7 +3,7 @@
 </div>
 
 # <div align="center">Hi 👋, I'm Akshay Shekade</div>
-## <div align="center">Data Scientist & ML Enthusiast</div>
+## <div align="center">Data Scientist👨‍💻| AI/ML Enthusiast🤖</div>
 
 ---
 
