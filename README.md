@@ -1,106 +1,225 @@
-<div align="center">
-  <img width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzdhYmgzb3JwNmJraTR1MWZoYWN4NHlmc2phMnhibW5wc3FlaGpkMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="coding">
-</div>
+<!-- HEADER -->
+<p align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzdhYmgzb3JwNmJraTR1MWZoYWN4NHlmc2phMnhibW5wc3FlaGpkMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400px">
+</p>
 
-# <div align="center">Hi 👋, I'm Akshay Shekade</div>
-## <div align="center">Data Scientist👨‍💻| AI/ML Enthusiast🤖</div>
+<h1 align="center">Akshay Shekade</h1>
 
----
+<p align="center">
+  <a href="https://akshayshekade.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/akshay-shekade-a225a8135/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:akshayshekade757@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.instagram.com/_akshu_1312/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
 
-## 👨‍💻 About Me
+<!-- ABOUT ME SECTION -->
+<h2 align="center">🚀 Data Scientist | ML Engineer | AI Enthusiast</h2>
 
-- 🎓 B.Tech graduate from **Pune University**
-- 🔍 Passionate about **Data Science**, **Machine Learning**, and **AI**
-- 🌱 Currently deepening my knowledge in **Machine Learning algorithms** and **AI applications**
-- 🔭 Looking to contribute to **Open Source** projects
-- 💼 View my professional work at [my portfolio](https://akshayshekade.netlify.app/)
-- 📫 Reach me at: [akshayshekade757@gmail.com](mailto:akshayshekade757@gmail.com)
+```python
+class DataScientist:
+    def __init__(self):
+        self.name = "Akshay Shekade"
+        self.education = "B.Tech from Pune University"
+        self.interests = ["Machine Learning", "AI", "Data Science", "Open Source"]
+        self.learning = ["Deep Learning", "NLP", "Computer Vision"]
+        
+    def say_hi(self):
+        print("Thanks for visiting my GitHub! Let's collaborate and build something amazing.")
 
----
+me = DataScientist()
+me.say_hi()
+```
 
-## 🛠️ Tech Stack
+<!-- SKILLS SECTION -->
+<h2 align="center">💻 Tech Arsenal</h2>
 
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65">
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65">
+      </a>
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65">
+      </a>
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="65" height="65">
+      </a>
+      <br>TensorFlow
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="65" height="65">
+      </a>
+      <br>PyTorch
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="65" height="65">
+      </a>
+      <br>MongoDB
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="Django" width="65" height="65">
+      </a>
+      <br>Django
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-plain.svg" alt="Streamlit" width="65" height="65">
+      </a>
+      <br>Streamlit
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="GCP" width="65" height="65">
+      </a>
+      <br>OpenCV
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="65" height="65">
+      </a>
+      <br>Azure
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://github.com/gilbarbara/logos/blob/main/logos/visual-studio-code.svg" alt="VS_code" width="65" height="65">
+      </a>
+      <br>VS Code
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="65" height="65">
+      </a>
+      <br>Git
+    </td>
+  </tr>
+</table>
 
-### Data Science & ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+<!-- AI TOOLS SECTION -->
+<h2 align="center">🤖 AI Toolkit</h2>
 
-### AI Tools & Platforms
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
-![NVIDIA CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn"/>
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA"/>
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" alt="W&B"/>
+</p>
 
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+<!-- GITHUB STATS -->
+<h2 align="center">📊 GitHub Analytics</h2>
 
-### Cloud Platforms
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+<p align="center">
+  <a href="https://github.com/AkshayShekade">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AkshayShekade&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayShekade&layout=compact&langs_count=8&theme=tokyonight"/>
+  </a>
+</p>
 
-### Development Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkshayShekade&theme=tokyonight" alt="AkshayShekade" />
+</p>
 
----
+<!-- EXPERIENCE SECTION -->
+<h2 align="center">🧠 AI Experience</h2>
 
-## 📊 GitHub Stats
+<p align="center">
+  <table align="center">
+    <tr>
+      <td>
+        <strong>🔹 Natural Language Processing</strong>
+        <ul>
+          <li>Transformer architectures implementation</li>
+          <li>Text classification & sentiment analysis</li>
+          <li>Large language model fine-tuning</li>
+        </ul>
+      </td>
+      <td>
+        <strong>🔹 Computer Vision</strong>
+        <ul>
+          <li>Object detection & image segmentation</li>
+          <li>CNN architecture design</li>
+          <li>Video analysis applications</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>🔹 Data Engineering</strong>
+        <ul>
+          <li>ETL pipeline development</li>
+          <li>Big data processing</li>
+          <li>Data visualization dashboards</li>
+        </ul>
+      </td>
+      <td>
+        <strong>🔹 Machine Learning Systems</strong>
+        <ul>
+          <li>Recommender system design</li>
+          <li>Anomaly detection</li>
+          <li>Reinforcement learning applications</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</p>
+
+<!-- FOOTER -->
+<h2 align="center">🔍 Current Focus</h2>
 
 <div align="center">
   
-![Akshay's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AkshayShekade&theme=radical&hide_border=false)
-
-![Akshay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkshayShekade&theme=radical&show_icons=true&hide_border=false&count_private=true)
-
-![Akshay's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayShekade&theme=radical&show_icons=true&hide_border=false&layout=compact)
+```mermaid
+mindmap
+  root((Akshay's Focus))
+    Deep Learning
+      Neural Architecture Search
+      Transfer Learning
+    NLP
+      LLM Fine-tuning
+      Conversational AI
+    MLOps
+      CI/CD for ML
+      Model Deployment
+    Open Source
+      Contributing to AI Projects
+      Building Community Tools
+```
 
 </div>
 
----
+<br>
 
-## 🤝 Connect With Me
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AkshayShekade&style=flat-square&color=blueviolet" alt="Profile Views"/>
+</p>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/akshay-shekade-a225a8135/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/_akshuu_1312/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="mailto:akshayshekade757@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</div>
-
----
-
-### 🎯 Current Focus
-
-- Advancing my knowledge in deep learning architectures
-- Exploring natural language processing applications
-- Contributing to open-source data science projects
-- Building end-to-end machine learning solutions
-- Leveraging AI tools for enhanced data analysis and visualization
-
----
-
-### 🤖 AI Experience
-
-- Building and fine-tuning transformer models for NLP tasks
-- Implementing computer vision solutions using CNN architectures
-- Developing recommendation systems with collaborative filtering
-- Exploring generative AI applications for content creation
-- Working with large language models (LLMs) for automated insights
+<p align="center">
+  <i>"The goal is to turn data into information, and information into insight." – Carly Fiorina</i>
+</p>
