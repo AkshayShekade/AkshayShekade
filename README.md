@@ -88,20 +88,6 @@
 
 ---
 
-### 📝 Featured Projects
-
-Here are some of my key projects that demonstrate my skills and expertise:
-
-1. **[Project Name]** - Brief description of what this project does and technologies used.
-   
-2. **[Project Name]** - Brief description of what this project does and technologies used.
-   
-3. **[Project Name]** - Brief description of what this project does and technologies used.
-
-<!-- Add links to your actual projects once available -->
-
----
-
 ### 🎯 Current Focus
 
 - Advancing my knowledge in deep learning architectures
