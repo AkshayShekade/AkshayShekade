@@ -67,7 +67,6 @@
 
 ![Akshay's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayShekade&theme=radical&show_icons=true&hide_border=false&layout=compact)
 
-![Profile Views](https://visitcount.itsvg.in/api?id=AkshayShekade&label=Profile%20Views&color=0&icon=0&pretty=false)
 </div>
 
 ---
